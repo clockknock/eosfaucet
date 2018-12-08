@@ -1,6 +1,8 @@
 ## eosio 水龙头(eosfaucet)合约
 
 > ps:本教程算是进阶教程,需要有一定的eosio合约开发基础.请先参阅官方文档 https://developers.eos.io/ 或 我翻译的过时的[教程](https://github.com/clockknock/EOS-Tutorial)进行基础学习 
+>
+> (但其实上你只要搭好了nodeos环境和部署了eosio.token就可以跟着走了)
 
 
 

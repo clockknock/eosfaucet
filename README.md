@@ -34,7 +34,7 @@ cd eosfaucet
 
 
 
-### 第二步 创建并打开一个新文件夹
+### 第二步 创建并打开一个cpp
 
 ```bach
 touch eosfaucet.cpp
